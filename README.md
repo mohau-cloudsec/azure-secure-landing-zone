@@ -20,7 +20,7 @@ in under 5 minutes, every single time.
 ![Architecture](./docs/architecture.png)
 
 ## What gets deployed
-- Resource Group in Switzerland North
+- Resource Group in South Africa North
 - Virtual Network (10.0.0.0/16) with private subnet
 - Network Security Group — denies all inbound internet traffic
 - Storage Account — HTTPS only, TLS 1.2, encryption at rest enforced
