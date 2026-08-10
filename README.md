@@ -47,3 +47,13 @@ terraform destroy
 
 ## Tools used
 Terraform · Azure CLI · Azure VNet · NSG · Blob Storage · GitHub
+
+## Screenshots
+### Resource Group
+![Resource Group](./docs/screenshots/resource-group.png)
+
+### Storage Account — Secure Transfer Enabled
+![Storage](./docs/screenshots/storage-secure.png)
+
+### NSG — Deny All Inbound Rule
+![NSG](./docs/screenshots/nsg-rule.png)
